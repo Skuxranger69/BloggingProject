@@ -1,0 +1,30 @@
+
+/* font-family: Abel; */
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf')
+}
+
+/* font-family: Josefin_Sans; */
+@font-face{
+    font-family: Josefin;
+    src: url('../fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf')
+}
+
+/* font-family: Livvic; */
+@font-face{
+    font-family: Livvic;
+    src: url('../fonts/Livvic/Livvic-Regular.ttf')
+}
+
+/* font-family: Overpass; */
+@font-face{
+    font-family: Overpass;
+    src: url('../fonts/Overpass/Overpass-Black.ttf')
+}
+
+/* font-family: Raleway; */
+@font-face{
+    font-family: Raleway;
+    src: url('../fonts/Raleway/Raleway-ExtraBold.ttf')
+}
